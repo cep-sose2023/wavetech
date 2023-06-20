@@ -21,7 +21,7 @@
 Our variation of a galton board uses only two compartments instead of many. Every pin inside a galton board has a 50% chance to be left or right. We use this uniform distribution to generate binary-valued random numbers. Our board has two stages with one pin per stage. Each compartment on each stage produces a bit, either a zero or a one. We use plastic marbles which run trough the system and interrupt laser which are pointed onto sensors. In the end they will get pumped up to the top again with a piston lift.
 
 <p align="center">
-  <img src="https://github.com/cep-sose2023/wavetech/assets/92106620/b4ba7bbb-67d8-496f-b47d-590d7f5666ef">
+  <img src="https://github.com/FabianMaas/TRNG/assets/92106620/b4ba7bbb-67d8-496f-b47d-590d7f5666ef">
 </p>
 
 ## Preparation
@@ -144,11 +144,11 @@ After cutting all the components, you will have the following parts:
 <details open>
 <summary>All parts:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/915d561c-c3d3-44ae-94d4-0f3e04ff7e47" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/1739643b-7f57-4d11-be28-5f685a05bd5b" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/3ab6cf73-3f96-48e3-b5fe-28cb901156bb" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/926411bf-fedd-43a8-ae7b-ab1cb4935aa6" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/245b9572-7db1-4151-bf3e-87b08a82bd01" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/915d561c-c3d3-44ae-94d4-0f3e04ff7e47" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/1739643b-7f57-4d11-be28-5f685a05bd5b" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/3ab6cf73-3f96-48e3-b5fe-28cb901156bb" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/926411bf-fedd-43a8-ae7b-ab1cb4935aa6" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/245b9572-7db1-4151-bf3e-87b08a82bd01" width="450" height="600">
 </details>
 
 <br>
@@ -160,9 +160,9 @@ Arrange the parts as shown in the picture, ensuring everything is easily accessi
 <details open>
 <summary>The procedure is as follows:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/915d561c-c3d3-44ae-94d4-0f3e04ff7e47" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/19de83af-eb2f-4838-9a40-a15c786c2613" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/4991c0ec-d9f3-40dc-9465-27d20b7f6204" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/915d561c-c3d3-44ae-94d4-0f3e04ff7e47" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/19de83af-eb2f-4838-9a40-a15c786c2613" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/4991c0ec-d9f3-40dc-9465-27d20b7f6204" width="450" height="600">
 </details>
 <br>
 The acrylic plate from the Glass.svg file serves as the lid for the Galton board. However, this is the final step after everything else has been installed on the board.
@@ -175,7 +175,7 @@ Next, we move to the end piece at the bottom, where the marbles land and roll ou
 <summary>The process is as follows:</summary>
 <br>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69453948/244934054-1739643b-7f57-4d11-be28-5f685a05bd5b.jpg" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/153efc1d-5f52-4e13-896e-d0969e6bbb5b" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/153efc1d-5f52-4e13-896e-d0969e6bbb5b" width="450" height="600">
 </details>
 
 
@@ -187,7 +187,7 @@ At the end of both processes, you can combine them together. The combined result
 <details open>
 <summary>Combination:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/4f26dd0e-27ba-468c-8f7b-108c0a0a37ee" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/4f26dd0e-27ba-468c-8f7b-108c0a0a37ee" width="450" height="600">
 </details>
 <br>
 
@@ -197,9 +197,9 @@ Now we come to the building instructions for the box located beneath the Galton 
 <details open>
 <summary>The process is as follows:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/926411bf-fedd-43a8-ae7b-ab1cb4935aa6" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/d7e26d13-acc1-479e-bb83-f738e0371fc7" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/f2785eb2-9703-4d59-830b-63b7d19692a7" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/926411bf-fedd-43a8-ae7b-ab1cb4935aa6" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/d7e26d13-acc1-479e-bb83-f738e0371fc7" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/f2785eb2-9703-4d59-830b-63b7d19692a7" width="450" height="600">
 </details>
 
 However, note that the lid should not be glued down yet. This will allow you to lay the cables later. The box is already stable enough with just one side glued.
@@ -209,7 +209,7 @@ The box provides a way to hide the large number of cables as much as possible. I
 <details open>
 <summary>Cable management</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/9f21d52b-188b-4b30-a60a-47e0c30ceb55" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/9f21d52b-188b-4b30-a60a-47e0c30ceb55" width="450" height="600">
 
 </details>
 
@@ -221,9 +221,9 @@ Finally, we move on to the slide, which connects the board with the lift. A file
 <details open>
 <summary>Please refer to the following pictures:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/038c0740-8308-476b-816b-9900cbc0a092" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/32db61c6-c3fd-4583-844a-01c3ced091a4" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/19798f32-c7fb-4b4a-979b-5b8787b26b47" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/038c0740-8308-476b-816b-9900cbc0a092" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/32db61c6-c3fd-4583-844a-01c3ced091a4" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/19798f32-c7fb-4b4a-979b-5b8787b26b47" width="450" height="600">
 </details>
 
 With all four parts, it doesn't need to be filed very steeply, but it is important that it has a straight angle. 
@@ -233,7 +233,7 @@ Once that is done, you can assemble these parts together, resulting in the follo
 <details open>
 <summary>Configuration:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/640d932a-ad56-4629-8982-a79a543e81e6" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/640d932a-ad56-4629-8982-a79a543e81e6" width="450" height="600">
 </details>
 
 After assembling the slide, you can also glue the "funnel" at the end of the slide. It should look something like this:
@@ -241,7 +241,7 @@ After assembling the slide, you can also glue the "funnel" at the end of the sli
 <details open>
 <summary>Configuration:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/ce61bb0b-3611-4fc6-a9ec-126f3a709cf3" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/ce61bb0b-3611-4fc6-a9ec-126f3a709cf3" width="450" height="600">
 </details>
 
 **Tip:** Ensure that the funnel is tight enough at the end to accommodate exactly one marble on the back wall.
@@ -259,7 +259,7 @@ The following STL files should be printed with ABS:
 <details open>
 <summary>Configuration:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/5800345b-8da9-4e8e-a76b-27cc53ce52bd" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/5800345b-8da9-4e8e-a76b-27cc53ce52bd" width="450" height="600">
 </details>
 
 Additionally, print the following files to connect the galton board with the box unterneath:
@@ -272,7 +272,7 @@ The normal corner is needed three times and the corner at the marble exit only o
 <details open>
 <summary>Corner:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/92106620/572d176a-71f3-4bc1-9890-47e7ef13b3da" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/92106620/572d176a-71f3-4bc1-9890-47e7ef13b3da" width="450" height="600">
 </details>
 
 <br>
@@ -286,7 +286,7 @@ Leave out the following file: Connector_Stepperengine.stl
 <details open>
 <summary>All parts:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/f1f9d594-ecbc-4fdd-8dbb-3b89befbe0d5" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/f1f9d594-ecbc-4fdd-8dbb-3b89befbe0d5" width="450" height="600">
 </details>
 
 There might be some parts with support structures, which were added by the 3D printer. You must remove them to be able to assemble the parts. In the pictures below you can see the support structure of the sliding part. The first picture shows the part with the support structure and the second shows it without.
@@ -294,8 +294,8 @@ There might be some parts with support structures, which were added by the 3D pr
 <details open>
 <summary>Support structre:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/173810d7-738a-42b6-9f9a-0abafc703b7f" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/b77e1374-ff14-41d7-81f9-b8f453433965" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/173810d7-738a-42b6-9f9a-0abafc703b7f" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/b77e1374-ff14-41d7-81f9-b8f453433965" width="450" height="600">
 </details>
 
 The next step will be the trickiest, because we need to get the crankshaft in place. In the following there will be series of pictures which fit this expiration:
@@ -306,10 +306,10 @@ The next step will be the trickiest, because we need to get the crankshaft in pl
 <details open>
 <summary>Assembling the crankshaft: Part 1:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/cd97e0a1-cc87-42bb-baa5-70b5c8ea8c53" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/611a08bd-bdb8-465e-89c4-7a13fa6b6331" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/c74290e4-0d16-411f-99d5-b437a82be122" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/9c4c7890-233d-4280-8751-1a98e083912b" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/cd97e0a1-cc87-42bb-baa5-70b5c8ea8c53" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/611a08bd-bdb8-465e-89c4-7a13fa6b6331" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/c74290e4-0d16-411f-99d5-b437a82be122" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/9c4c7890-233d-4280-8751-1a98e083912b" width="450" height="600">
 </details>
 <br>
 
@@ -324,10 +324,10 @@ The next step will be the trickiest, because we need to get the crankshaft in pl
 <details open>
 <summary>Assembling the crankshaft: Part 2:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/cde1e3c1-0f6a-4180-9288-2f96c7a4852e" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/6283e6f0-0572-49b1-81f4-2b7c9bf9200e" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/fce31fbd-d201-4ecf-8f32-2e75c5d376bd" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/fa367e22-b9ef-4cf9-8776-a42f398c40d8" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/cde1e3c1-0f6a-4180-9288-2f96c7a4852e" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/6283e6f0-0572-49b1-81f4-2b7c9bf9200e" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/fce31fbd-d201-4ecf-8f32-2e75c5d376bd" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/fa367e22-b9ef-4cf9-8776-a42f398c40d8" width="450" height="600">
 </details>
 <br>
 
@@ -336,9 +336,9 @@ There are three more steps until the marble lift is done. First you must insert 
 <details open>
 <summary>Connecting the hose:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/60ff1ec3-f30c-465d-89ae-d1cb56d75c34" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/29f694f8-5878-42e6-a530-f26dc7734e38" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/afc7d267-544e-4c2e-b63e-ad382d222c0b" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/60ff1ec3-f30c-465d-89ae-d1cb56d75c34" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/29f694f8-5878-42e6-a530-f26dc7734e38" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/afc7d267-544e-4c2e-b63e-ad382d222c0b" width="450" height="600">
 </details>
 
 To integrate the marble pump to the rest of the system, connect the tube with the top of the marble pump.
@@ -351,8 +351,8 @@ To close the loop of the marbles, add the slide between the marble exit of the G
 <details open>
 <summary>Marble pump attachment:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/92106620/72510a96-30c1-4778-bce5-af79dcb656dd" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/92106620/1d1bcb55-2528-430d-ba9e-1b99a0429c8e" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/92106620/72510a96-30c1-4778-bce5-af79dcb656dd" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/92106620/1d1bcb55-2528-430d-ba9e-1b99a0429c8e" width="450" height="600">
 </details>
 
 <br>
@@ -365,7 +365,7 @@ The green part is printed with PLA. Use the file Connector_Stepperengine.stl to 
 <details open>
 <summary>Connecting the stepper motor</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/129375472/90779872-0386-490d-8c08-e112c2e64319" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/129375472/90779872-0386-490d-8c08-e112c2e64319" width="450" height="600">
 </details>
 <br>
 
@@ -383,8 +383,8 @@ Use the following file to print the holder of the Raspberry Pi. Add it next to t
 <details open>
 <summary>RaspberryPi holder:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/92106620/b8b3cdf4-15b0-4bd5-afc0-06d0cc712b0e" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/92106620/48b0c037-050c-46aa-99b2-de8cd8404b85" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/92106620/b8b3cdf4-15b0-4bd5-afc0-06d0cc712b0e" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/92106620/48b0c037-050c-46aa-99b2-de8cd8404b85" width="450" height="600">
 </details>
 
 <br>
@@ -395,8 +395,8 @@ This chapter describes our self engineered circuit diagram, please refer to the 
 <details open>
 <summary>Example:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/a18f7c77-9da0-499d-b79c-6d2cf7bf4f3e" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/62900645/18c3d3d0-ba20-48e5-b35a-523e463197f6">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/a18f7c77-9da0-499d-b79c-6d2cf7bf4f3e" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/62900645/18c3d3d0-ba20-48e5-b35a-523e463197f6">
 </details>
 <br>
 
@@ -413,8 +413,8 @@ photodiodes with their brackets are moved slightly until the control lamp lights
 <details open>
 <summary>Sensor system:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/66927b07-3723-4440-8e28-be69d0ad9c5f" width="450" height="600">
-<img src="https://github.com/cep-sose2023/wavetech/assets/69453948/34980d81-b6a2-48f2-9f35-9d26d2ad0d2a" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/66927b07-3723-4440-8e28-be69d0ad9c5f" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/69453948/34980d81-b6a2-48f2-9f35-9d26d2ad0d2a" width="450" height="600">
 </details>
 
 The picture below shows an aligned (below) and an unaligned (above) laser. For the top photodiode, only the power indicator light is on, but the laser signal light is off.
@@ -424,7 +424,7 @@ fixed to the rest of the Galton Board.
 <details open>
 <summary>Laser alignment:</summary>
 <br>
-<img src="https://github.com/cep-sose2023/wavetech/assets/92106620/504cc159-0be0-4fe1-863e-9b0c04acff6c" width="450" height="600">
+<img src="https://github.com/FabianMaas/TRNG/assets/92106620/504cc159-0be0-4fe1-863e-9b0c04acff6c" width="450" height="600">
 </details>
 <br>
 
